@@ -1,2 +1,2 @@
-# gentle_intro_to_ml_climate_tech
-A gentle introduction into ML for climate tech
+# Gentle intro to ML for climate tech
+Download the notebooks and run them in your preferred platform (Google Colab works)
